@@ -1,5 +1,0 @@
-path=require("path")
-console.log(module.filename)
-console.log(path.normalize("."))
-console.log(path.join("one","two"))
-console.log(path.extname("one/haha.js"))

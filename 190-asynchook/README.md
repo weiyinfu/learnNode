@@ -1,0 +1,1 @@
+asyncHook用于管理js的全部异步操作
